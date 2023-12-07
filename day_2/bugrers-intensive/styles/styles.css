@@ -96,10 +96,10 @@ body{
     padding: 11px;
     box-sizing: border-box;
     border-radius: 5px;
-    widht: 45px;
+    width: 45px;
     height: 45px;
     text-align: center;
-    corsor: pointer;
+    cursor: pointer;
     margin-left: auto;
     font-size: 18px;
     user-select: none;
